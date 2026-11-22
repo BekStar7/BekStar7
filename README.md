@@ -14,7 +14,7 @@ Senior Frontend Engineer from Almaty, Kazakhstan (UTC+5). I've spent 9 years bui
 
 - [**Paper Borders**](https://paperborders.world/game/?utm_source=github&utm_campaign=profile_readme): co-founder of a browser geopolitical strategy game; I built the interactive world map in Three.js and Preact
 - [**split-bill-bot**](https://github.com/BekStar7/split-bill-bot): Telegram bot that splits a bill from a receipt photo (Claude Vision, Node.js, SQLite + Drizzle, Fly.io)
-- [**bekstar.tech**](https://bekstar.tech): bilingual portfolio on Nuxt 4 ([source](https://github.com/BekStar7/porfolio-site))
+- [**bekstar.tech**](https://bekstar.tech): bilingual portfolio on Nuxt 4 ([source](https://github.com/BekStar7/portfolio-site))
 
 ### Stack
 
